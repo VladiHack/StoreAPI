@@ -140,3 +140,5 @@ C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\obj\Debug\net8.0\Store
 C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\obj\Debug\net8.0\ref\StoreAPI.dll
 C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\bin\Debug\net8.0\AutoMapper.dll
 C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Vladimir Boychev\Desktop\Store\StoreAPI\StoreAPI\obj\Debug\net8.0\StoreAPI.sourcelink.json

@@ -55,8 +55,7 @@ namespace StoreAPI.Controllers
         [ProducesResponseType(StatusCodes.Status201Created)]
         [ProducesResponseType(StatusCodes.Status400BadRequest)]
         [ProducesResponseType(StatusCodes.Status500InternalServerError)]
-        public async Task<ActionResult<User>> CreateUserAsync(
-            [FromBody] UserDTO userDTO)
+        public async Task<ActionResult<User>> CreateUserAsync([FromBody] UserDTO userDTO)
         {
             if (userDTO == null)
             {
@@ -69,24 +68,23 @@ namespace StoreAPI.Controllers
             }
 
             var existingUser = await _context.Users
-                .FirstOrDefaultAsync(u =>
-                    u.Name == userDTO.Name ||
-                    u.PasswordHash == userDTO.PasswordHash);
+                .FirstOrDefaultAsync(u => u.Name == userDTO.Name);
 
             if (existingUser != null)
             {
-                return BadRequest("Username or email already exists.");
+                return BadRequest("Username already exists.");
             }
+
+            // Hash the password before storing the user
+            userDTO.PasswordHash = BCrypt.Net.BCrypt.HashPassword(userDTO.PasswordHash);
 
             var user = _mapper.Map<User>(userDTO);
             _context.Users.Add(user);
-
             await _context.SaveChangesAsync();
 
-            return CreatedAtRoute("GetUser",
-                new { id = user.Id },
-                user);
+            return CreatedAtRoute("GetUser", new { id = user.Id }, user);
         }
+
 
         // PUT: api/User/{id}
         [HttpPut("{id:int}", Name = "UpdateUser")]
@@ -114,6 +112,9 @@ namespace StoreAPI.Controllers
             {
                 return BadRequest("Username or email already exists.");
             }
+
+            //Hash the new password 
+            userDTO.PasswordHash = BCrypt.Net.BCrypt.HashPassword(userDTO.PasswordHash);
 
             var updatedUser = _mapper.Map<User>(userDTO);
             _context.Users.Update(updatedUser);

@@ -16,6 +16,8 @@ namespace StoreAPI.Services.Users
             _mapper = mapper;
         }
 
+     
+
         public async Task CreateUserAsync(UserDTO userDTO)
         {
             var user = _mapper.Map<User>(userDTO);
@@ -23,7 +25,8 @@ namespace StoreAPI.Services.Users
             await _context.SaveChangesAsync();
         }
 
-        public async Task DeleteUserByIdAsync(int id)
+
+    public async Task DeleteUserByIdAsync(int id)
         {
             var userToDelete = await GetUserByIdAsync(id);
             _context.Users.Remove(userToDelete);
