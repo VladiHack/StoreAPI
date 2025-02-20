@@ -1,0 +1,1170 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\bannerslidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\bannerslidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\collectioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\bannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\storeoptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\storeoptioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\banner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\bannerslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\bannerslide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\productvariantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\productvariantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\collectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\collectiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\bannerslidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\bannerslidedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\bannerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\collection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\variantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\collectionproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\collectionproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\collectionproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\collectionproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\productvariant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\collectionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\collectionproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\producttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\varianttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\varianttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\storedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\variantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\variantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\storeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\storeoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\varianttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\varianttypedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\storeoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\storeoptiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\productimagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\controllers\\varianttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\controllers\\varianttypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\collections\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\collections\\icollectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\collectionproducts\\collectionproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\collectionproducts\\collectionproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\collectionproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\collectionproductprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\collectionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\collectionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\collectionproducts\\icollectionproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\collectionproducts\\icollectionproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\collections\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\collections\\collectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\productimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\productimageprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\bannerslideprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\bannerslideprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\productvariantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\productvariantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\productvariantdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\productimagedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\variantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\variantprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\varianttypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\varianttypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\storeoptionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\storeoptionprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\automapper\\bannerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\automapper\\bannerprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\banners\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\banners\\bannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\dto\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\bannerslides\\ibannerslideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\bannerslides\\ibannerslideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\bannerslides\\bannerslideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\bannerslides\\bannerslideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\varianttypes\\varianttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\varianttypes\\varianttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\varianttypes\\ivarianttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\varianttypes\\ivarianttypeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\variants\\variantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\variants\\variantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\variants\\ivariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\variants\\ivariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\storeoptions\\storeoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\storeoptions\\storeoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\storeoptions\\istoreoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\storeoptions\\istoreoptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\productvariants\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\productvariants\\productvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\productvariants\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\productvariants\\iproductvariantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\productimages\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\productimages\\productimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\productimages\\iproductimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\productimages\\iproductimageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\products\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\products\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\services\\banners\\ibannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\services\\banners\\ibannerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\storeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\storeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|c:\\users\\vladimir boychev\\desktop\\store\\storeapi\\storeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C17EE61-5FF5-4872-9004-10A936D96617}|StoreAPI\\StoreAPI.csproj|solutionrelative:storeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreOptionController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\StoreOptionController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\StoreOptionController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\StoreOptionController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\StoreOptionController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:04:06.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAkwMIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:57:26.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Banner.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Banner.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\Banner.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Banner.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\Banner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:07:31.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BannerSlide.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\BannerSlide.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\BannerSlide.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\BannerSlide.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\BannerSlide.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:07:30.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CollectionController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\CollectionController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\CollectionController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\CollectionController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\CollectionController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAjwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:52:00.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BannerController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\BannerController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\BannerController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\BannerController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\BannerController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAIA6wB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:18:01.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BannerSlideController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\BannerSlideController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\BannerSlideController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\BannerSlideController.cs*",
+              "RelativeToolTip": "StoreAPI\\Controllers\\BannerSlideController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:47:45.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductVariantController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductVariantController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\ProductVariantController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductVariantController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\ProductVariantController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:01:57.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAHAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:15:26.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CollectionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\CollectionDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\CollectionDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\CollectionDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\CollectionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:26:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BannerSlideDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\BannerSlideDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\BannerSlideDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\BannerSlideDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\BannerSlideDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:23:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BannerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\BannerDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\BannerDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\BannerDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\BannerDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:22:49.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Collection.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Collection.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\Collection.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Collection.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\Collection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:26:02.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "VariantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\VariantDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\VariantDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\VariantDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\VariantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:31:00.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CollectionProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\CollectionProductDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\CollectionProductDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\CollectionProductDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\CollectionProductDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:42:05.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CollectionProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\CollectionProductController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\CollectionProductController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\CollectionProductController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\CollectionProductController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:49:05.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Product.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:08:44.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductVariant.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductVariant.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\ProductVariant.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductVariant.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\ProductVariant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:08:28.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CollectionProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\CollectionProduct.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\CollectionProduct.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\CollectionProduct.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\CollectionProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:41:32.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductType.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductType.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\ProductType.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductType.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\ProductType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T17:51:10.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VariantType.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\VariantType.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\VariantType.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\VariantType.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\VariantType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:03:37.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StoreDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\StoreDbContext.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\StoreDbContext.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\StoreDbContext.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\StoreDbContext.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAnwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:02:26.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Variant.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\Variant.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\Variant.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\Variant.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:03:40.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VariantController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\VariantController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\VariantController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\VariantController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\VariantController.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAEwG4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:18:21.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StoreOption.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\StoreOption.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\StoreOption.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\StoreOption.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\StoreOption.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:06.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StoreOptionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\StoreOptionDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\StoreOptionDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\StoreOptionDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\StoreOptionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:16.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "VariantTypeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\VariantTypeDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\VariantTypeDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\VariantTypeDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\VariantTypeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:31:25.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ProductImageController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductImageController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\ProductImageController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\ProductImageController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\ProductImageController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAWwBoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:00:17.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\ProductImage.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:08:28.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\ProductDTO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:20:59.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Program.cs",
+              "RelativeToolTip": "StoreAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAewDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:02:43.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "VariantTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\VariantTypeController.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Controllers\\VariantTypeController.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Controllers\\VariantTypeController.cs",
+              "RelativeToolTip": "StoreAPI\\Controllers\\VariantTypeController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwBEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T15:22:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Collections\\ICollectionService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Collections\\ICollectionService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Collections\\ICollectionService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Collections\\ICollectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:38:33.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CollectionProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\CollectionProducts\\CollectionProductService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\CollectionProducts\\CollectionProductService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\CollectionProducts\\CollectionProductService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\CollectionProducts\\CollectionProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCcAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:45:57.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CollectionProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\CollectionProductProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\CollectionProductProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\CollectionProductProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\CollectionProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:43:29.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CollectionProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\CollectionProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\CollectionProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\CollectionProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\CollectionProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:38:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ICollectionProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\CollectionProducts\\ICollectionProductService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\CollectionProducts\\ICollectionProductService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\CollectionProducts\\ICollectionProductService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\CollectionProducts\\ICollectionProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T15:46:05.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "CollectionService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Collections\\CollectionService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Collections\\CollectionService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Collections\\CollectionService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Collections\\CollectionService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:38:24.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductImageProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductImageProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\ProductImageProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductImageProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\ProductImageProfile.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:40:15.402Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BannerSlideProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\BannerSlideProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\BannerSlideProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\BannerSlideProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\BannerSlideProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:37:23.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ProductVariantProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductVariantProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\ProductVariantProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductVariantProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\ProductVariantProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:41:14.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductVariantDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductVariantDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\ProductVariantDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductVariantDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\ProductVariantDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:28:59.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductImageDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductImageDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\ProductImageDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\ProductImageDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\ProductImageDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:28:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\UserProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\UserProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\UserProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:43:03.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "VariantTypeProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\VariantTypeProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\VariantTypeProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\VariantTypeProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\VariantTypeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:47:24.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "VariantProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\VariantProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\VariantProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\VariantProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\VariantProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:44:00.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StoreOptionProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\StoreOptionProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\StoreOptionProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\StoreOptionProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\StoreOptionProfile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:42:13.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\ProductProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\ProductProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\ProductProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:18:57.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "BannerProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\BannerProfile.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\AutoMapper\\BannerProfile.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\AutoMapper\\BannerProfile.cs",
+              "RelativeToolTip": "StoreAPI\\AutoMapper\\BannerProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:35:53.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "BannerService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Banners\\BannerService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Banners\\BannerService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Banners\\BannerService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Banners\\BannerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:33:50.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\UserDTO.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\DTO\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\DTO\\UserDTO.cs",
+              "RelativeToolTip": "StoreAPI\\DTO\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:48.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "BannerSlideService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\BannerSlides\\BannerSlideService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\BannerSlides\\BannerSlideService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\BannerSlides\\BannerSlideService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\BannerSlides\\BannerSlideService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwCcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:37:19.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IBannerSlideService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\BannerSlides\\IBannerSlideService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\BannerSlides\\IBannerSlideService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\BannerSlides\\IBannerSlideService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\BannerSlides\\IBannerSlideService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:36:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "VariantTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\VariantTypes\\VariantTypeService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\VariantTypes\\VariantTypeService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\VariantTypes\\VariantTypeService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\VariantTypes\\VariantTypeService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:06:19.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IVariantTypeService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\VariantTypes\\IVariantTypeService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\VariantTypes\\IVariantTypeService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\VariantTypes\\IVariantTypeService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\VariantTypes\\IVariantTypeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:06:10.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "VariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Variants\\VariantService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Variants\\VariantService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Variants\\VariantService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Variants\\VariantService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA5wCsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:00:00.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "IVariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Variants\\IVariantService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Variants\\IVariantService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Variants\\IVariantService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Variants\\IVariantService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:00:09.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAYwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:58:39.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:58:48.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "IStoreOptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\StoreOptions\\IStoreOptionService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\StoreOptions\\IStoreOptionService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\StoreOptions\\IStoreOptionService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\StoreOptions\\IStoreOptionService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:56:09.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "StoreOptionService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\StoreOptions\\StoreOptionService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\StoreOptions\\StoreOptionService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\StoreOptions\\StoreOptionService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\StoreOptions\\StoreOptionService.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAA5wCcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:56:00.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IProductVariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductVariants\\IProductVariantService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\ProductVariants\\IProductVariantService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductVariants\\IProductVariantService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\ProductVariants\\IProductVariantService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:54:20.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ProductVariantService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductVariants\\ProductVariantService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\ProductVariants\\ProductVariantService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductVariants\\ProductVariantService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\ProductVariants\\ProductVariantService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvycAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:54:05.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "IProductImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductImages\\IProductImageService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\ProductImages\\IProductImageService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductImages\\IProductImageService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\ProductImages\\IProductImageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:30.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ProductImageService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductImages\\ProductImageService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\ProductImages\\ProductImageService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\ProductImages\\ProductImageService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\ProductImages\\ProductImageService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCcAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:48:21.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Products\\IProductService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Products\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Products\\IProductService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Products\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:40:44.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Products\\ProductService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Products\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Products\\ProductService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Products\\ProductService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:40:34.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "IBannerService.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Banners\\IBannerService.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Services\\Banners\\IBannerService.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Services\\Banners\\IBannerService.cs",
+              "RelativeToolTip": "StoreAPI\\Services\\Banners\\IBannerService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:34:34.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "StoreAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
+              "RelativeDocumentMoniker": "StoreAPI\\StoreAPI.csproj",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\StoreAPI.csproj",
+              "RelativeToolTip": "StoreAPI\\StoreAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T12:34:23.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "StoreAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\Models\\User.cs",
+              "RelativeToolTip": "StoreAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T14:30:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StoreAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vladimir Boychev\\Desktop\\Store\\StoreAPI\\StoreAPI\\appsettings.json",
+              "RelativeToolTip": "StoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-12T14:03:43.606Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
