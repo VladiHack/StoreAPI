@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using StoreAPI.AutoMapper;
 using StoreAPI.Models;
 using StoreAPI.Services.CollectionProducts;
+using StoreAPI.Services.ProductTypes;  // Import the ProductType service namespace
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,6 +24,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 // Register scoped services
 builder.Services.AddScoped<ICollectionProductService, CollectionProductService>();
+builder.Services.AddScoped<IProductTypeService, ProductTypeService>(); // ?? Add this line
 
 // Configure JSON serialization options
 builder.Services.AddControllers().AddJsonOptions(options =>

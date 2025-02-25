@@ -163,7 +163,9 @@ namespace StoreAPI.Controllers
                 .Where(p => p.StoreId == storeId && p.Slug.ToLower() == slug.ToLower())  // Filter by storeId and slug
                 .Include(p => p.ProductImages)
                 .Include(p => p.ProductVariants)
-                .ThenInclude(pv => pv.Variant)
+                    .ThenInclude(pv => pv.Variant)
+                .Include(p => p.ProductTypes)  // Include ProductType
+                    .ThenInclude(pt => pt.Type) // Include VariantType
                 .FirstOrDefaultAsync();
 
             if (product == null)
@@ -193,6 +195,14 @@ namespace StoreAPI.Controllers
                     {
                         pv.VariantId,
                         VariantName = pv.Variant.Name
+                    }).ToList(),
+                VariantTypes = product.ProductTypes
+                    .Where(pt => pt.ProductId == product.Id)
+                    .Select(pt => new
+                    {
+                        pt.Type.Id,
+                        VariantTypeName = pt.Type.Name,
+                        pt.Type.Quantity
                     }).ToList()
             };
 
@@ -212,7 +222,9 @@ namespace StoreAPI.Controllers
                 .Where(p => p.StoreId == storeId && EF.Functions.Like(p.Name.ToLower(), $"%{searchedText.ToLower()}%"))  // Case-insensitive LIKE and store filter
                 .Include(p => p.ProductImages)
                 .Include(p => p.ProductVariants)
-                .ThenInclude(pv => pv.Variant)
+                    .ThenInclude(pv => pv.Variant)
+                .Include(p => p.ProductTypes)  // Include ProductType (connection table)
+                    .ThenInclude(pt => pt.Type) // Include VariantType
                 .ToListAsync();
 
             if (!products.Any())
@@ -242,15 +254,20 @@ namespace StoreAPI.Controllers
                     {
                         pv.VariantId,
                         VariantName = pv.Variant.Name,
-                        pv.Variant.Quantity
+                        VariantQuantity = pv.Variant.Quantity // 🔥 Includes Variant Quantity
+                    }).ToList(),
+                VariantTypes = product.ProductTypes
+                    .Where(pt => pt.ProductId == product.Id)
+                    .Select(pt => new
+                    {
+                        pt.Type.Id,
+                        VariantTypeName = pt.Type.Name,
+                        VariantTypeQuantity = pt.Type.Quantity // 🔥 Includes VariantType Quantity
                     }).ToList()
             }).ToList();
 
             return Ok(result);
         }
-
-
-
 
 
 
